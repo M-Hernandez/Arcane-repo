@@ -1,4 +1,4 @@
-<h3> Starfield </h3>
+#Starfield
 
 Starfield is a simple visualization of what it would look like moving through the cosmos. 
 
