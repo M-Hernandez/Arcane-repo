@@ -3,7 +3,7 @@
 Julia project focuses on the simulation of coordinate points given a .tsv file from Qualisys data.
 41 points are currently visualized using MeshCat animations. Each marker is represented by a sphere in the visualizer.
 
-This research was publicated in the 2020 11th IEEE Annual Information Technology, Electronics and Mobile Communication Conference, [*An Initial Julia Simulation Approach to Material Handling Operations from Motion Captured Data*](https://ieeexplore.ieee.org/document/9284829)
+This research was publicated in the 2020 11th IEEE Annual Information Technology, Electronics and Mobile Communication Conference (IEMCON), [*An Initial Julia Simulation Approach to Material Handling Operations from Motion Captured Data*](https://ieeexplore.ieee.org/document/9284829)
 
 
 <b> Packages needed: </b></br>
